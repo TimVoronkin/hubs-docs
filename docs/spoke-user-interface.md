@@ -92,9 +92,6 @@ The Rock Kit contains a collection of realistic rock models that can be used to 
 #### Sketchfab
 Sketchfab is an online marketplace for 3D models. It contains a wide variety of high quality models to help you fill out your scene.
 
-#### Google Poly
-Google Poly is another source for 3D models. Most models are in a flat low poly style.
-
 #### Bing Images
 Search Bing for images from around the web.
 
